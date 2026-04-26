@@ -1,7 +1,7 @@
 <body>
   <div align="center">
 
-<img src="assets/banner.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/ktatianab/ktatianab/main/Assets/banner.gif" width="100%"/>
 
 <br><br>
 
