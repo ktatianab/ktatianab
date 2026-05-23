@@ -118,7 +118,8 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-<h2> ✧ Now Playing ✧ </h2>
+<h2> ✧ Currently Vibing To ✧ </h2>
+<p>🎧 A little soundtrack while I code:</p>
 
 <p>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qm8dacd9wj8nas6818edxoyik&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
